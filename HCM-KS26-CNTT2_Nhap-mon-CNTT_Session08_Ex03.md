@@ -23,6 +23,6 @@ Giải pháp tối ưu cho hệ thống "GreenTech"
 
 **Giải pháp đề xuất:** Lựa chọn Markdown làm định dạng chính cho toàn bộ hệ thống đầu ra của "GreenTech"
 Lập luận:
-- Tiết kiệm chi phí token và tăng tốc độ xử lý của AI: sử dụng Markdown giúp giảm từ 20% đến 40% số lượng token đầu ra so với HTML và tối ưu LLM xử lý đưa câu trả lời nhanh hơn
-- Phù hợp cho nông dân sử dụng vì Markdown giúp hiển thị thông tin trực quan,dễ nhìn 
+- Tiết kiệm chi phí token và tăng tốc độ xử lý của AI: sử dụng Markdown giúp giảm từ 20% đến 40% số lượng token đầu ra so với HTML và tối ưu LLM xử lý đưa câu trả lời nhanh hơn.
+- Phù hợp cho nông dân sử dụng vì Markdown hiển thị thông tin trực quan,dễ nhìn .
 - Độ ổn định cao cho AI: Markdown giúp AI dễ nhìn và xử lý và trả lời câu hỏi ổn định hơn HTML cú pháp phức tạp khiến AI dễ đưa ra câu trả lời bị thiếu cú pháp và lỗi cú pháp
